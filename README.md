@@ -2,3 +2,8 @@
 
 Hi there im ma6z👋
 
+# MAIN LANGUAGES
+PYTHON
+
+# SERVICES 
+DISCORD AND LINUX
